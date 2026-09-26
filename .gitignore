@@ -1,0 +1,7 @@
+# Raw data stays in D:\DataArts, not in this public site
+*.zip
+*.csv
+
+Thumbs.db
+desktop.ini
+.DS_Store
